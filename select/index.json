@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "BUTTERFLY EFFECT",
+  "base_artist": "Travis Scott",
+  "createdAt": "2026-03-18T20:45:08.695236Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Butterfly Effect",
+      "artist": "Koven",
+      "has_synced": false,
+      "path": "select/01_Butterfly_Effect_Koven.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Butterfly Effect",
+      "artist": "Koven",
+      "has_synced": true,
+      "path": "select/02_Butterfly_Effect_Koven.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Butterfly Effect",
+      "artist": "Lamb",
+      "has_synced": true,
+      "path": "select/03_Butterfly_Effect_Lamb.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Butterfly Effect",
+      "artist": "Moonlight Haze",
+      "has_synced": true,
+      "path": "select/04_The_Butterfly_Effect_Moonlight_Haze.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "BUTTERFLY EFFECT",
+      "artist": "Travis Scott",
+      "has_synced": true,
+      "path": "select/05_BUTTERFLY_EFFECT_Travis_Scott.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Butterfly Effect - VIP",
+      "artist": "Koven",
+      "has_synced": false,
+      "path": "select/06_Butterfly_Effect_-_VIP_Koven.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "BUTTERFLY EFFECT",
+      "artist": "Travis Scott",
+      "has_synced": true,
+      "path": "select/07_BUTTERFLY_EFFECT_Travis_Scott.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Butterfly Effect (VIP)",
+      "artist": "Koven",
+      "has_synced": true,
+      "path": "select/08_Butterfly_Effect_(VIP)_Koven.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Butterfly Effect (Feat. nobody likes you pat, Emily Brophy)",
+      "artist": "Dept feat. nobody likes you pat & Emily Brophy",
+      "has_synced": false,
+      "path": "select/09_Butterfly_Effect_(Feat._nobody_likes_you_pat,_Emily_Brophy)_Dept_feat._nobody_likes_you_pat_&_Emily_Brophy.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "BUTTERFLY EFFECT",
+      "artist": "Travi$ Scott",
+      "has_synced": true,
+      "path": "select/10_BUTTERFLY_EFFECT_Travi$_Scott.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Butterfly Effect",
+      "artist": "Dope D.O.D.",
+      "has_synced": true,
+      "path": "select/11_The_Butterfly_Effect_Dope_D.O.D..lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Butterfly Effect - Extended Mix",
+      "artist": "Curbi feat. Bougenvilla",
+      "has_synced": true,
+      "path": "select/12_Butterfly_Effect_-_Extended_Mix_Curbi_feat._Bougenvilla.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Butterfly Effect(Extended Mix)",
+      "artist": "Curbi/Bougenvilla",
+      "has_synced": true,
+      "path": "select/13_Butterfly_Effect(Extended_Mix)_Curbi_Bougenvilla.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Butterfly Effect",
+      "artist": "Before The Dawn",
+      "has_synced": false,
+      "path": "select/14_Butterfly_Effect_Before_The_Dawn.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Butterfly Effect",
+      "artist": "Travis Scott",
+      "has_synced": false,
+      "path": "select/pl_01_Butterfly_Effect_Travis_Scott.txt"
+    }
+  ]
+}
